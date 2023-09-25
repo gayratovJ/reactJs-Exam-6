@@ -1,0 +1,28 @@
+h2 {
+  color: var(--Light, #FFF);
+
+  /* Display */
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 64px;
+  /* 114.286% */
+  letter-spacing: -2px;
+  margin-bottom: 24px;
+}
+
+p.date {
+  color: var(--Light, #FFF);
+
+  /* Body 1 */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+}
+
+p span {
+  color: #FFD050;
+}
+
